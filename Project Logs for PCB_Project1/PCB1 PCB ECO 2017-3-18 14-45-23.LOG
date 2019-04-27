@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=CH340T Old Footprint=SSOP20 New Footprint=SOP20
+Added Component: Designator=U?(SSOP20)
+Added Member To Class: ClassName=Sheet1 Member=Component U? CH340H
+Added Room: Name=Sheet1

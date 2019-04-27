@@ -1,0 +1,6 @@
+"STARTUP.obj",
+"24C0x.obj",
+"LCD12864.obj",
+"Ö¸ÎÆÃÜÂëËø.obj" 
+TO "c" 
+RAMSIZE(256) 

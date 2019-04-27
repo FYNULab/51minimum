@@ -1,0 +1,77 @@
+Added Component: Designator=C03(C-RAD-0603)
+Added Component: Designator=C3(C-RAD-0603)
+Added Component: Designator=C04(C-RAD-0603)
+Added Component: Designator=C4(C-RAD-0603)
+Added Component: Designator=CH340T(SSOP20)
+Added Component: Designator=U?(SSOP20)
+Added Component: Designator=XT0(HC-49S)
+Added Pin To Net: NetName=GND Pin=C03-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C04-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=V5 Pin=C04-2
+Added Pin To Net: NetName=P30 Pin=CH340T-3
+Added Pin To Net: NetName=P31 Pin=CH340T-4
+Added Pin To Net: NetName=GND Pin=CH340T-8
+Added Pin To Net: NetName=V5 Pin=CH340T-19
+Added Pin To Net: NetName=D+ Pin=CH340T-6
+Added Pin To Net: NetName=D+ Pin=USB_B-3
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=CH340T-7
+Added Pin To Net: NetName=D- Pin=USB_B-2
+Added Net: Name=D-
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=CH340T-9
+Added Pin To Net: NetName=NetC3_1 Pin=XT0-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC03_2 Pin=C03-2
+Added Pin To Net: NetName=NetC03_2 Pin=CH340T-5
+Added Net: Name=NetC03_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=CH340T-10
+Added Pin To Net: NetName=NetC4_1 Pin=XT0-1
+Added Net: Name=NetC4_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C03 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C04 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component CH340T CH340H
+Added Member To Class: ClassName=Sheet1 Member=Component Cs Cap Pol
+Added Member To Class: ClassName=Sheet1 Member=Component D0 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D3 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D4 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D5 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D6 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D7 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D LED0
+Added Member To Class: ClassName=Sheet1 Member=Component on/off HEADER 3X2
+Added Member To Class: ClassName=Sheet1 Member=Component P0 Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RD Res1
+Added Member To Class: ClassName=Sheet1 Member=Component res SW-PB
+Added Member To Class: ClassName=Sheet1 Member=Component RE Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RN103 CON9
+Added Member To Class: ClassName=Sheet1 Member=Component Rs Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RT Res1
+Added Member To Class: ClassName=Sheet1 Member=Component  89C52
+Added Member To Class: ClassName=Sheet1 Member=Component TX LED0
+Added Member To Class: ClassName=Sheet1 Member=Component U? CH340H
+Added Member To Class: ClassName=Sheet1 Member=Component USB-TTL Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component USB_B USB
+Added Member To Class: ClassName=Sheet1 Member=Component XT0 XT
+Added Member To Class: ClassName=Sheet1 Member=Component XT
+Added Room: Name=Sheet1
